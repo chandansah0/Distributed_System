@@ -1,3 +1,4 @@
+// Lab: 2  Date: 2081/03/19 //
 //WAP to stimulate the functioning of the lamport's logical clock in C++ //
 
 #include <iostream>
