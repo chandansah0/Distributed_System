@@ -1,4 +1,9 @@
 // Lab:4 Date: 2081/04/02 //
+// Title: Implementation of distributed file sytsem (DFS)
+// Objectives;
+// 1. To understand the concept of DFS
+// 2. To implement DFS for storing and retrieving files
+
 // Server.java
 
 import java.io.*;
