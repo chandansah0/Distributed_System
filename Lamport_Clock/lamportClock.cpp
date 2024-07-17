@@ -1,6 +1,11 @@
 // Lab: 2  Date: 2081/03/19 //
-//WAP to stimulate the functioning of the lamport's logical clock in C++ //
+// Title: Implementation of Lamport Clock for Logical Clock Synchronization
+// Objectives;
+// 1. To understand the concept of lamport clock.
+// 2. To Simulate lamport clock for logical clock synchronization.
 
+
+//WAP to stimulate the functioning of the lamport's logical clock in C++ //
 #include <iostream>
 using namespace std;
 
