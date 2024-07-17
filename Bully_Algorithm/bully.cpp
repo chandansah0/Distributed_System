@@ -1,7 +1,9 @@
 // Lab 3 Date: 2081/03/26 //
-// WAP to stimulate the Election Algorithm (Bully Algorithm) // 
+// Tittle: BULLY ALGORITHM
+// Objectives;
+// 1. To Stimulate the election algorithm (Bully Algorithm) in java. 
 
-
+// WAP to stimulate the Election Algorithm (Bully Algorithm) //
 #include <iostream>
 #include <vector>
 #include <algorithm>
